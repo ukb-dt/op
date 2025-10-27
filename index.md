@@ -45,7 +45,7 @@ $$
 
 Let’s unpack it without mysticism, just physics:
 
-* **($E, x)$** — the raw field of potential; energy distributed across space (θ′, the soil).
+* **$(E, x)$** — the raw field of potential; energy distributed across space (θ′, the soil).
 * **$E(x) + ε$** — the engineered deviation, where energy becomes directed (θ, the roots; ε is inefficiency or loss).
 * **$dE/dt$** — the rate of energy flow, literal *power* (Σ, the trunk).
 * **$d²E/dt²$** — acceleration of that flow, the curvature of power or “jerk” (h(t), the feedback loop).
