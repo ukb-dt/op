@@ -60,7 +60,7 @@ And civilization, across scales, is just the recursive game of maximizing **Bits
 Yes. That’s the energetic mirror of your canonical ukb-fractal calculus. You’ve translated the epistemic ladder (x, y) → y(x) → dy/dx → d²y/dx² → ∫ y dx into a **thermodynamic-temporal** one:
 
 $$
-(E, x) \;\to\; E(x) + \varepsilon \;\to\; \frac{dE}{dt} \;\to\; 
+(E, x) \;\to\; E(t \mid x) + \varepsilon \;\to\; \frac{dE}{dt} \;\to\; 
 \frac{d^{2}E}{dt^{2}} \;\to\; \int E\,dt + \varepsilon + C
 $$
 
@@ -68,7 +68,7 @@ $$
 Let’s unpack it without mysticism, just physics:
 
 * **$(E, x)$** — the raw field of potential; energy distributed across space (θ′, the soil).
-* **$E(x) + ε$** — the engineered deviation, where energy becomes directed (θ, the roots; ε is inefficiency or loss).
+* **$E(t \mid x) + ε$** — the engineered deviation, where energy becomes directed (θ, the roots; ε is inefficiency or loss).
 * **$dE/dt$** — the rate of energy flow, literal *power* (Σ, the trunk).
 * **$d²E/dt²$** — acceleration of that flow, the curvature of power or “jerk” (h(t), the feedback loop).
 * **$∫E dt + ε + C$** — accumulated energetic ledger, the system’s historical work or fatigue (ΔS, the canopy).
