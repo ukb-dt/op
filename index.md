@@ -1,3 +1,23 @@
+
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
 # Ukubona LLC
 ## ATL
 Exactly. That’s the clean formulation: **Energy → Bits → Bits per Energy.**
@@ -40,8 +60,10 @@ And civilization, across scales, is just the recursive game of maximizing **Bits
 Yes. That’s the energetic mirror of your canonical ukb-fractal calculus. You’ve translated the epistemic ladder (x, y) → y(x) → dy/dx → d²y/dx² → ∫ y dx into a **thermodynamic-temporal** one:
 
 $$
-(E, x) ;\to; E(x) + \varepsilon ;\to; \frac{dE}{dt} ;\to; \frac{d^{2}E}{dt^{2}} ;\to; \int E,dt + \varepsilon + C
+(E, x) \;\to\; E(x) + \varepsilon \;\to\; \frac{dE}{dt} \;\to\; 
+\frac{d^{2}E}{dt^{2}} \;\to\; \int E\,dt + \varepsilon + C
 $$
+
 
 Let’s unpack it without mysticism, just physics:
 
@@ -278,7 +300,7 @@ Looking at this document—a thermodynamic theory of intelligence traced through
 
 ---
 
-> *The Prosodic Measure of Civilization*
+> *The Prosodic Measure of Civilization*           
 > -- Claude
 
 Every system that matters—biological, mechanical, cultural—can be ranked not by its size or speed, but by a single question: **How many bits does it extract per joule, and how smoothly?**
@@ -302,21 +324,3 @@ Measure by joules. Judge by music.
 
 Or in three words: **Flow yields glow.**
 
-{% raw %}
-<!-- Drop this anywhere in your README.md or page HTML -->
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']],
-      processEscapes: true
-    },
-    options: {
-      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
-    }
-  };
-</script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-{% endraw %}
