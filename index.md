@@ -95,7 +95,7 @@ $$
 
 or equivalently,
 
-$4
+$$
 I \sim \frac{1}{\text{power density per decision}}
 $$
 
